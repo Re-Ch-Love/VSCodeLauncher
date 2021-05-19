@@ -10,7 +10,7 @@
     如
     ```
     D:\Microsoft VS Code\_Code.exe
-    --extensions-dir "D:\Microsoft VS Code\extensions"
+    --extensions-dir "E:\vscode_extensions"
     ```
 
 ## 背景
